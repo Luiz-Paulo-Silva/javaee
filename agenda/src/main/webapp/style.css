@@ -1,0 +1,68 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+body{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1em;
+	font-weight: 400;
+}
+
+h1{
+	color: #66bbff;
+}
+.Botao1{
+	text-decoration: nome;
+	background-color: #66bbff;
+	padding: 5px 10px 5px 10px;
+	color: #fff;
+	font-size: 1.2em;
+	font-weight: 700;
+	border-radius: 5px;
+	cursor: pointer;
+}
+.Botao2{
+	text-decoration: nome;
+	background-color: #d51213;
+	padding: 5px 10px 5px 10px;
+	color: #fff;
+	font-size: 1.2em;
+	font-weight: 700;
+	border-radius: 5px;
+	cursor: pointer;
+}
+.Caixa1{
+	width: 320px;
+	padding: 5px;
+	margin-bottom: 10px;
+	border: 1px solid #000000;
+	background-color:#E6E6FA;
+	border-radius: 5px;
+	
+}
+.Caixa2{
+	padding: 5px;
+	margin-bottom: 10px;
+	border: 1px solid #000000;
+	background-color:#E6E6FA;
+	border-radius: 5px;
+	
+}
+#caixa3{
+	padding: 5px;
+	margin-bottom: 10px;
+	border: 1px solid #ff0000;
+}
+#tabela{
+	margin-top: 30px;
+}
+#tabela th{
+	border: 1px solid #ddd;
+	padding: 10px;
+	text-allign: left;
+	background-color: #66bbff;
+	color: #fff;
+}
+#tabela td{
+	border: 1px solid #ddd;
+	padding: 10px;
+}
